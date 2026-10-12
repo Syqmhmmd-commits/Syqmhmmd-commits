@@ -102,6 +102,16 @@ Personal portfolio website — dark terminal vibes + animasi interaktif.
 
 ---
 
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
+
+</div>
+
 ## 📫 Hubungi Gua
 
 <div align="center">
