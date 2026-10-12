@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syqmhmmd-commits&show_icons=true&cache_seconds=1800&theme=dark&bg_color=0a0e14&title_color=00d9a3&icon_color=00d9a3&text_color=e6edf3&border_color=232b38&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syqmhmmd-commits&show_icons=true&cache_seconds=1800&theme=dark&bg_color=0a0e14&title_color=00d9a3&icon_color=00d9a3&text_color=e6edf3&border_color=232b38&hide_border=false" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syqmhmmd-commits&layout=compact&cache_seconds=1800&theme=dark&bg_color=0a0e14&title_color=00d9a3&text_color=e6edf3&border_color=232b38&hide_border=false&langs_count=8" />
 
