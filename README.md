@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syqmhmmd.dev-00d9a3?style=for-the-badge&logo=firefox&logoColor=white)](https://syqmhmmd-commits.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Syqmhmmd--commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syqmhmmd-commits)
-[![Email](https://img.shields.io/badge/Email-dara2903004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dara2903004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dara290304@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dara2903004@gmail.com)
 
 </div>
 
