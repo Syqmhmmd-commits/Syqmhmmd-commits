@@ -6,7 +6,7 @@
 
 **Low-Level System Engineer** untuk Redmi Note 10S & Poco M5s — fokus di BBRv3, optimasi compiler, dan tools open-source.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-syqmhmmd-commits.github.io/Portfolio-ffb000?style=for-the-badge&logo=firefox&logoColor=black)](https://syqmhmmd-commits.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-syqmhmmd--commits.github.io-ffb000?style=for-the-badge&logo=firefox&logoColor=black)](https://syqmhmmd-commits.github.io/syqmhmmd.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Syqmhmmd--commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syqmhmmd-commits)
 [![Telegram](https://img.shields.io/badge/Telegram-youthfxx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youthfxx)
 
@@ -91,7 +91,7 @@ Feature-rich kernel (Linux 4.19.325). Supports I/O schedulers, KernelSU-Next, an
 </td>
 <td width="50%">
 
-### 🌐 [Portfolio](https://github.com/Syqmhmmd-commits/Portfolio)
+### 🌐 [Portfolio](https://syqmhmmd-commits.github.io/syqmhmmd.github.io/)
 Personal portfolio website — raw terminal vibes + auto-sync GitHub API.
 
 `HTML` `CSS` `JavaScript`
